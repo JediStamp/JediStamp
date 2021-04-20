@@ -9,7 +9,9 @@
 <p>I am passionate about making STEM more accessible, especially to young girls.</p>
 
 <h1>Toolbox</h1>
+<p>
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width=50. height=50>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" width=50. height=50>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width=50. height=50>
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width=50. height=50>
+</p>
