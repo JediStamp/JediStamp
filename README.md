@@ -17,11 +17,26 @@
 ## Toolbox
 
 <p>
-  <img src="html5-2.svg" width=50. height=50>
-  <img src="css-3.svg" width=50. height=50>
-  <img src="javascript-1.svg" width=50. height=50>
-  <img src="latex.svg" width=50. height=50>
-  <img src="java-4.svg" width=50. height=50>
+  <img src="html5-2.svg" width=50 height=50>
+  <img src="css-3.svg" width=50 height=50>
+  <img src="javascript-1.svg" width=50 height=50>
+  <img src="php-1.svg" width=50 height=50>
+  <img src="wordpress-blue.svg" width=50 height=50>
+  
+  <img src="python.svg" width=50 height=50>
+  <img src="latex.svg" width=50 height=50>
+  
+  <img src="java-4.svg" width=50 height=50>
+  <img src="c--4.svg" width=50 height=50>
+  
+  <img src="android-4.svg" width=50 height=50>
+  
+  <img src="oracle-6.svg" width=50 height=50>
+  <img src="mysql-6.svg" width=50 height=50>
+  <img src="microsoft-sql-server-1.svg" width=50 height=50>
+  <img src="myongodb-icon-1.svg" width=50 height=50>
+  <img src="neo4j.svg" width=50 height=50>
+    
 </p>
 
 ---
