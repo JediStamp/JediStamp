@@ -17,11 +17,11 @@
 ## Toolbox
 
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width=50. height=50>
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width=50. height=50>
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width=50. height=50>
-<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" width=50. height=50>
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" width=50. height=50>
+<img src="css-5.svg" width=50. height=50>
+<img src="html5-2.svg" width=50. height=50>
+<img src="java-4.svg" width=50. height=50>
+<img src="latex.svg" width=50. height=50>
+<img src="javascript-1.svg" width=50. height=50>
 </p>
 
 ---
