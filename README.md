@@ -39,6 +39,6 @@
 
 ## My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JediStamp&hide=ruby,shell&theme=vue&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JediStamp&hide=ruby,shell&theme=vue&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Jenne's GitHub stats](https://github-readme-stats.vercel.app/api?username=JediStamp&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
