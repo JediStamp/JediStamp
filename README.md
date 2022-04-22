@@ -9,9 +9,8 @@
 ## About Me
 
 <p>Pronouns: she / her</p>
-<p>I’m currently learning Computer Programming at Algonquin College.</p>
-<p>I’m working on a business optimization tool for Orthodontists.</p>
-<p>I am passionate about making STEM more accessible, especially to young girls.</p>
+<p>I just completed a diploma in Computer Programming at Algonquin College.</p>
+<p>I am passionate about making STEM more accessible.</p>
 
 ---
 
